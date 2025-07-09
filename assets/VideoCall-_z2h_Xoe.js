@@ -1,0 +1,1 @@
+import{j as e,H as l}from"./index-CqqvCFxl.js";const s=()=>e.jsx("div",{className:"relative flex size-full min-h-screen flex-col bg-primary group/design-root overflow-x-hidden min-w-sm",children:e.jsx("div",{className:"flex h-full grow flex-col",children:e.jsx(l,{})})});export{s as default};
